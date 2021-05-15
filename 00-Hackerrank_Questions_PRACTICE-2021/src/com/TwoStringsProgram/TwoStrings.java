@@ -1,3 +1,15 @@
+/*Sample Input
+2
+hello
+world
+hi
+world
+------------------------------
+Sample Output
+YES
+NO
+*/
+
 package com.TwoStringsProgram;
 
 import java.io.*;

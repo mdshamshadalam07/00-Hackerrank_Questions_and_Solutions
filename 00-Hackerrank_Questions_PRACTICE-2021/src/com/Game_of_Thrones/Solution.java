@@ -1,3 +1,21 @@
+/*Sample Input 0
+aaabbbb
+Sample Output 0
+YES
+===================================
+Sample Input 1
+cdefghmnopqrstuvw
+--------------------------
+Sample Output 1
+NO
+=============================
+Sample Input 2
+cdcdcdcdeeeef
+-----------------------------------
+Sample Output 2
+YES
+*/
+
 package com.Game_of_Thrones;
 import java.io.*;
 import java.math.*;

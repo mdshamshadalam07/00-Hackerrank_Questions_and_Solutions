@@ -1,3 +1,13 @@
+/*Sample Input
+STDIN       Function
+-----       --------
+5 2         arr[] size n = 5, k =2
+1 5 3 4 2   arr = [1, 5, 3, 4, 2]
+---------------------------------------------
+Sample Output
+3
+*/
+
 package com.PairsProblem;
 
 import java.io.*;
