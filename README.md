@@ -1,1 +1,1 @@
-# 00-Hackerrank_Questions_and_Solutions
+# Hackerrank_Questions_and_Solutions
